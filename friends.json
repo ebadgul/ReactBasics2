@@ -1,0 +1,28 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Joe Bloggs",
+      "address": "1 Main Street",
+      "email": "jbloggs@here.con"
+    },
+    {
+      "id": 2,
+      "name": "Paula Smith",
+      "address": "5 High Street",
+      "email": "psmith@here.con"
+    },
+    {
+      "id": 3,
+      "name": "Catherine Dwyer",
+      "address": "2 Upper Street",
+      "email": "cdwyer@here.con"
+    },
+    {
+      "id": 4,
+      "name": "Paul Briggs",
+      "address": "3 Side Street",
+      "email": "pbriggs@here.con"
+    }
+  ]
+}

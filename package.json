@@ -1,0 +1,14 @@
+{
+  "name": "React-data-flow",
+  "version": "0.0.1",
+  "description": "Basic data flow design in React apps",
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "lodash" :  "~2.4.1",
+    "superagent" : "1.6.1"
+  },
+  "devDependencies": {
+    "reactify": "^1.1.1"
+  }
+}
